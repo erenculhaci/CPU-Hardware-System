@@ -1,0 +1,31 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+RF_OutASel: xxx
+RF_OutBSel: xxx
+RF_FunSel: 00
+RF_RSel: 0000
+ALU_FunSel: xxxx
+ARF_OutCSel: xx
+ARF_OutDSel: 11
+ARF_FunSel: 11
+ARF_RegSel: 0011
+IR_LH: 1
+IR_Enable: 1
+IR_Funsel: 01
+Mem_WR: 0
+Mem_CS: 1
+MuxASel: xx
+MuxBSel: xx
+MuxCSel: x
+SeqCtr_T: 011
+opcode: zzzz
+z: 0
+addressingMode: z
+RSel: zz
+address: zzzzzzzz
+dstReg: zzzz
+SReg1: zzzz
+SReg2: zzzz
+ARFValue: xx
+RFValue: xx
+$finish called at time : 995 ns : File "C:/Users/erenc/Desktop/CPUSystem_Project/CPUSystem_Project.srcs/sim_1/new/simulation.v" Line 389

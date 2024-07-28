@@ -1,0 +1,7 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/erenc/Desktop/CPUSystem_Project/CPUSystem_Project.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/erenc/Desktop/CPUSystem_Project/CPUSystem_Project.srcs/sim_1/new/simulation.v,1685000977,verilog,,,,ALU_test;ARF_test;CPUSystem_TB;IR_tb;Project1Test;Project2Test;RF_test;SequentialCounter_test;register_n_bit_tb,,,,,,,,
+C:/Users/erenc/Desktop/CPUSystem_Project/CPUSystem_Project.srcs/sources_1/new/modules.v,1685000967,verilog,,C:/Users/erenc/Desktop/CPUSystem_Project/CPUSystem_Project.srcs/sim_1/new/simulation.v,,ALU;ALU_System;ARF;CPUSystem;IR;Memory;RF;SequentialCounter;register_n_bit,,,,,,,,
